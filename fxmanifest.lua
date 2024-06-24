@@ -2,10 +2,10 @@ fx_version 'cerulean'
 lua54 'yes'
 game 'gta5'
 
-name 'bnl-housing'
-author 'Boris'
-version '0.0.1'
-repository 'https://github.com/borisnliscool/bnl-housing'
+name 'Shadow-Housing'
+author 'Shadow Development'
+version '1.0.0'
+repository 'https://github.com/ghosti-dev/housing'
 description 'A player property system for FiveM'
 
 dependencies {
